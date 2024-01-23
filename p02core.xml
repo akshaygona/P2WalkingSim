@@ -1,0 +1,9 @@
+<component name="libraryTable">
+  <library name="p02core">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/p02core.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>
